@@ -7,7 +7,7 @@ This guide walks you through carefully packaging and shipping your mechanical ke
 ## Step 1: Cover Exposed Screws
 - Use **painter’s tape** to cover any exposed screws on the board. This prevents scratches and protects the finish.
 
-![Cover exposed screws with painter's tape](tutorial_asset/step_1.jpg)
+![Cover exposed screws with painter's tape](tutorial_asset/step_1.jpeg)
 
 ## Step 2: Clean Delicate Finishes
 - If the board has a **PVD finish**, use a **new microfiber cloth** to wipe it down. This removes any fingerprints or dust before packing.
