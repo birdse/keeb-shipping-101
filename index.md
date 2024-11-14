@@ -1,5 +1,10 @@
 # Mechanical Keyboard Packing and Shipping Guide
 
+## Tutorial written by @Ladb
+> - [Discord](discord.gg/Ladb)
+> - [YouTube](https://www.youtube.com/channel/UCnJrj0XylSQQ-bjrutL2xOA)
+> - [Twitch.tv](https://www.twitch.tv/ladbee)
+
 This guide walks you through carefully packaging and shipping your mechanical keyboard to ensure it arrives safely—especially helpful for high-value boards. Follow each step to pack like a pro!
 
 ---
