@@ -1,6 +1,8 @@
 # Mechanical Keyboard Packing and Shipping Guide
 
-## Tutorial written by @Ladb
+---
+
+### Tutorial written by @Ladb
 > - [Discord](discord.gg/Ladb)
 > - [YouTube](https://www.youtube.com/channel/UCnJrj0XylSQQ-bjrutL2xOA)
 > - [Twitch.tv](https://www.twitch.tv/ladbee)
